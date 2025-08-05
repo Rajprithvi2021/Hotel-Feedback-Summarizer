@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+openai
+python-dotenv
+databases
+openai>=1.0.0
+requests
+
+
