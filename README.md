@@ -2,6 +2,9 @@
 
 This project is an **AI-powered API service** that collects hotel guest feedback, classifies it under relevant **themes** (like *Cleanliness*, *Food*, *Service*, etc.), generates concise **summaries** using an **LLM (OpenAI)**, and provides **statistics** on the feedback.
 
+🌐 **Live Demo**: [https://hotel-feedback-summarizer.onrender.com/docs](https://hotel-feedback-summarizer.onrender.com/docs)
+
+
 ---
 
 ## 🚀 Features
@@ -50,8 +53,7 @@ hotel_feedback_api/
 ## Setup Instructions
 
 1. Clone the repository
-    git clone https://github.com/your-username/hotel_feedback_api.git
-    cd hotel_feedback_api
+    git clone git@github.com:Rajprithvi2021/Hotel-Feedback-Summarizer.git
 
 2. Create .env file
     OPENAI_API_KEY=sk-xxxxxx
